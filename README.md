@@ -1,6 +1,6 @@
 # AIAT 人类去中心化注意力系统
 
-> Attention is all your tokens
+> Attention Is All your Tokens
 
 ## 这个世界需要从技术领主的注意力圈养中解放出来
 
